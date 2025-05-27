@@ -1,0 +1,14 @@
+Input: пример текста для генерации заголовка
+Generated: программу альбом для рекламы для рекламы для для для <unk> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+Input: еще один тестовый пример
+Generated: новая королева лидирует через второй группы группы группы городов группы группы еще на версии группы <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+Input: третий пример для проверки
+Generated: первый третий склад первой для первого второго <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+Input: пример четыре
+Generated: назначен норвежский генерал четверо четыре четыре недели четыре четыре четыре четыре альбома четыре четыре четыре четыре четыре четыре четыре четыре четыре четыре четыре четыре четыре четыре четыре четыре четыре четыре четыре четыре четыре четыре четыре четыре четыре четыре четыре четыре четыре четыре четыре четыре четыре четыре четыре четыре четыре четыре
+
+Input: пятый пример
+Generated: новый новый две недели одновременно стала новый новый 4,5 части новый новый новый новый год <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
